@@ -1,4 +1,3 @@
-# TP_MLP_multiclass_mnist_multicouches.py
 
 import numpy as np
 import matplotlib.pyplot as plt
